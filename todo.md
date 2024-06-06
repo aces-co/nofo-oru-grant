@@ -1,6 +1,6 @@
 # To-do list
 
-Things to do for the application, organized by entry dates.
+Things to do for the application, organized by date added.
 
 ## 2024/06/06 - UEI registration
 
@@ -8,19 +8,19 @@ For the UEI (*Unique Entity ID*) registration with [SAM.gov](https://sam.gov), w
 
 - [ ] **Legal Business Name**.
   It must match with the name in the state filing office (or tax documents). <br> 
-  Currently assumption value: `Prose Technology Co. Ltd.`
+  Current assumption value: `Prose Technology Co. Ltd.`
 - [ ] **Doing Business As**.
   This is the common name that the business adopts. <br> 
-  Currently assumption value: `Prose`
+  Current assumption value: `Prose`
 - [ ] **Physical Address**.
   This should be the company's primary mailing address in the US. It cannot be a P.O. Box. <br>
-  Currently assumption value: `550 Clark Dr, Budd Lake, NJ 07828, USA`
+  Current assumption value: `550 Clark Dr, Budd Lake, NJ 07828, USA`
 - [ ] **Start Year**.
   This is the year in which Prose legally establish itself as a business. It is also sometimes referred to as "**Year of Incorporation**" <br>
-  Currently assumption value: `2022`
+  Current assumption value: `2022`
 - [ ] **State of Incorporation**.
   Pick the State in which Prose legally operates under. It should also be the state where Prose files its State Taxes. <br>
-  Currently assumption value: `New Jersey`
+  Current assumption value: `New Jersey`
 
 To prove the validity of the previously mentioned information, Prose will need to provide legal documents that will display:
 - [ ] **Legal Business Name** and **Physical Address** in the same document

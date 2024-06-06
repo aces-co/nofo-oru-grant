@@ -1,13 +1,7 @@
 # Application to *Notice Of Funding Opportunity* (NOFO) for development of *Open Radio Units* (O-RUs)
 
-Mr. Ali's task list:
-- How to apply?
-- Who will hold the *Intellectual Property* (IP) rights?
-- What are the terms and conditions?
-- What is the maximum range of the O-RU?
-
 ## Background
-The Public Wireless Supply Chain is a US Innovation Fund of $1.5 Billion, aimed at accelerating the commercialization, adoption, and development of Open Radio Access Network (O-RAN). <br>
+The Public Wireless Supply Chain is a US Innovation Fund of $420 Million, aimed at accelerating the commercialization, adoption, and development of Open Radio Access Network (O-RAN). <br>
 This year, the competitive grant is focusing on funding the development and commercial adoption of Open Radio Units (O-RU), which are the fronthaul of a RAN. <br>
 The RUs are the greatest contributor to the total hardware cost of a RAN deployment, due to being installed in the largest quantities compared to other network components.
 As such, they have become a key focus for cost optimization in the network infrastructure.
@@ -128,23 +122,33 @@ Also note that some of the sample forms are outdate, and some will require you t
 So, we cannot precisely know what is needed until we sign up using our UEI (from [SAM.gov]).
 
 
-## Addressing Mr. Ali's checklist
-- How to apply: <br>
+## Addressing some FAQs
+- How to apply? <br>
   For us, the best way to apply would be by registering on [SAM.gov], and acquiring a **Unique Entity Identifier** (UEI) as a foreign MNO.
   This would be better than filling out form [SF-328]. <br>
   After acquiring our UEI, we would need to fill out our part of the grant application (as a partner MNO, listed in [Proposal requirements](#proposal-requirements)), while our US-based RU supplier partner (who will also be the primary applicant) will need to fill out the majority of what their development goals are.
-- About IP rights: <br>
+- What about IP rights? <br>
   The [NOFO slides] do not state that the US will hold the IP rights of any developed product.
   Instead, the slides mention that we (the applicant) will have to submit our IP-rights plan. <br>
   But it would be in our best interest not to be too restrictive if we wish to acquire the funding, especially when its agenda is about open interfaces.
-- What conditions apply: <br>
+- What conditions apply? <br>
   Some of the conditions are listed in the [budgeting section](#funding-budget-related).
-- Maximum and minimum ranges of the RU being developed: <br>
+- What is the maximum and minimum range for the RUs being developed? <br>
   The slides do not specify the range at which the RU should operate in.
   But since the focus of the funding is to develop commercial O-RUs in the US, I think any acceptable range within the application's bounds will be fine. <br>
   For instance:
   - If small-cells were being developed for placement in buildings, then it would need high beamforming capabilities (for high penetration), with moderate power consumption (we don't want too much RF leakage from the building, since it would be wasteful energy).
   - If small-cells were being developed for placement outside in a metropolis, then it would need high MIMO capabilities, in addition to being able to create a few but extremely strong beamforming among peer small-cells in the neighborhood for sharing communication.
+- How many partnered corporations can there be? <br>
+  The [NOFO slides] suggest that there is no limitation on the number of partners. <br>
+  A quote from the slides:
+  > For both SRFAs, eligible entities include for-profit and non-profit companies, institutions of higher education, industry 
+groups, and partnerships of two or more such entities.
+  
+  The minimum requirement is for at least **one** RU supplier to partner up with at least **one** MNO. <br>
+  Furthermore, each entity can **only** apply for one application.
+  Thus, for instance, Radisys cannot jointly be involved in T-mobile **and** with Aces-Prose partnership.
+  It will have to pick one.
 
 
 ## Possible *FEOC* concerns

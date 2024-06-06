@@ -27,6 +27,14 @@ The RU is the largest part of the carrier network and an easy entry point to the
 Investing in the commercialization and innovation of these components in the Innovation Fund's second funding opportunity can spur MNO adoption of open RUs during upcoming equipment buying cycles, generating momentum toward greater MNO adoption of the broader suite of open and interoperable RAN components.
 The transition to open and interoperable wireless networks becomes a more feasible and attractive proposition in the wireless market when there is broad deployment of open RUs that meet or exceed MNO requirements, and components are available from suppliers at scale.
 
+The total funds available this year is $420,000,000, and each project in the SRFA1 category receives a funding of $25,000,000 to $45,000,000.
+
+
+### Further reading
+
+A more detailed reading (including FAQs) can be found in the [`./details/readme.md`](/details/readme.md) file.
+
+
 ## Application
 Application instructions (none as of yet): [pdf link](https://apply07.grants.gov/apply/opportunities/instructions/PKG00286272-instructions.pdf)
 
