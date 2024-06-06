@@ -1,0 +1,37 @@
+{
+	"name": "nofo-oru-grant",
+	"version": "2024.6.6",
+	"description": "details on grant for commercial adoption of Open Radio Units (O-RUs). Package number: PKG00286272, Opportunity number: NTIA-PWSCIF-24-01",
+	"author": "Omar Azmi",
+	"license": "Lulz plz don't steal it yet",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/omar-azmi/nofo-oru-grant.git"
+	},
+	"bugs": {
+		"url": "https://github.com/omar-azmi/nofo-oru-grant/issues"
+	},
+	"fmt": {
+		"useTabs": true,
+		"semiColons": false,
+		"singleQuote": false,
+		"lineWidth": 800,
+		"proseWrap": "never",
+		"include": [
+			"./"
+		]
+	},
+	"compilerOptions": {
+		"lib": [
+			"esnext",
+			"dom",
+			"deno.ns"
+		],
+		"strict": true,
+		"allowJs": true
+	},
+	"tasks": {
+		"render": "deno run -A render.ts \"./notes/revealjs_test.html\""
+	},
+	"imports": { "reveal.js": "npm:reveal.js@^5.1.0" }
+}
