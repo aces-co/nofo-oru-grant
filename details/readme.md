@@ -104,14 +104,14 @@ Otherwise, valid expenses will need to be reported as:
 
 
 ## Complete list of required documents for the application
-- SF-424, Application for Federal Assistance [(sample form)](https://www.rd.usda.gov/files/sf424.pdf)
-- SF-424A, Budget Information for Non-Construction Programs [(sample form)](https://www.rd.usda.gov/files/sf424a.pdf)
-- Project/Performance Site Locations Form [(sample form)](https://grants.nih.gov/grants/funding/forms-h/RR_SF424_5_0-V5.0.pdf)
-- CD-511, Certification Regarding Lobbying [(sample form)](https://apply07.grants.gov/apply/forms/readonly/CD511-V1.1.pdf)
-- SF-LLL, Disclosure of Lobbying Activities (if applicable) [(sample form)](https://apply07.grants.gov/apply/forms/readonly/SFLLL_2_0-V2.0.pdf)
-- SF-328 Certification Pertaining to Foreign Interests [(sample form)](https://www.gsa.gov/system/files/SF328-18b.pdf)
-- Budget Narrative and Justification [(sample guide)](https://www.uvu.edu/osp/docs/how-to-prepare-a-budget-justification.pdf)
-- Indirect Cost Rate Agreement (if applicable) [(sample guide)](https://www2.ed.gov/about/offices/list/ope/trio/indirect-costs-guidance.pdf)
+- SF-424, Application for Federal Assistance. see: [online pdf link](https://apply07.grants.gov/apply/forms/readonly/SF424_4_0-V4.0.pdf), or [local pdf link](/application_documents/(mandatory)%20SF424_4_0-V4.0.pdf)
+- SF-424A, Budget Information for Non-Construction Programs. see: [online pdf link](https://apply07.grants.gov/apply/forms/readonly/SF424A-V1.0.pdf), or [local pdf link](/application_documents/(mandatory)%20SF424A-V1.0.pdf)
+- RR-SF-424A, Project/Performance Site Locations Form. see: [online pdf link](https://grants.nih.gov/grants/funding/forms-h/RR_SF424_5_0-V5.0.pdf)
+- CD-511, Certification Regarding Lobbying. see: [online pdf link](https://apply07.grants.gov/apply/forms/readonly/CD511-V1.1.pdf), or [local pdf link](/application_documents/(mandatory)%20CD511-V1.1.pdf)
+- SF-LLL, Disclosure of Lobbying Activities (if applicable). see: [online pdf link](https://apply07.grants.gov/apply/forms/readonly/SFLLL_2_0-V2.0.pdf), or [local pdf link](/application_documents/(optional)%20SFLLL_2_0-V2.0.pdf)
+- SF-328, Certification Pertaining to Foreign Interests. see: [online pdf link](https://apply07.grants.gov/grantsws/rest/opportunity/att/download/338956), or [local pdf link](/related_documents/SF328-18b.pdf)
+- Budget Narrative and Justification. see: [online excel-sheet link](https://apply07.grants.gov/grantsws/rest/opportunity/att/download/338955), or [local excel-sheet link](/related_documents/PWSCIF_Budget%20Narrative%20and%20Justification%20Form.xlsx)
+- Indirect Cost Rate Agreement (if applicable). see: [sample guide](https://www2.ed.gov/about/offices/list/ope/trio/indirect-costs-guidance.pdf)
 - Technical Proposal
 - Work Plan
 - Commercial Transition Plan
